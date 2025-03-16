@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/10_BP/BP_MovingCube.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EY/ZH43RKEGVBLODAH7SO7NJ5.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/10_BP/BP_BasicPawn.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/Input/Move.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/Input/Turn.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/Input/IMC.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/10_BP/BP_RPGHUD.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/10_BP/BP_BarWidget.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/BP_hud.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/Curve.uasset",
+				"C:/Users/swous/Documents/Unreal/Eval_Cpp/Content/ColorGradient.uasset"
+			]
+		}
+	]
+}

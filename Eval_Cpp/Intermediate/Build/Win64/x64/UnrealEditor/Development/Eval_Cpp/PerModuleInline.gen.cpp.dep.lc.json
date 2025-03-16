@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\swous\\documents\\unreal\\eval_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eval_cpp\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\swous\\documents\\unreal\\eval_cpp\\intermediate\\build\\win64\\x64\\eval_cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\swous\\documents\\unreal\\eval_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eval_cpp\\definitions.eval_cpp.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

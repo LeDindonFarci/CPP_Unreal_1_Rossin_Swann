@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\swous\\documents\\unreal\\eval_cpp\\source\\eval_cpp\\eval_cppgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\swous\\documents\\unreal\\eval_cpp\\intermediate\\build\\win64\\x64\\eval_cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\swous\\documents\\unreal\\eval_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eval_cpp\\definitions.eval_cpp.h",
+            "c:\\users\\swous\\documents\\unreal\\eval_cpp\\source\\eval_cpp\\eval_cppgamemode.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\eval_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\eval_cpp\\uht\\eval_cppgamemode.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\eval_cpp\\source\\eval_cpp\\eval_cppcharacter.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\eval_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\eval_cpp\\uht\\eval_cppcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

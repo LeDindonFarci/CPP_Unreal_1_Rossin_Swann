@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Eval_Cpp",
+			"Path": "..\\Source\\Eval_Cpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Eval_CppEditor",
+			"Path": "..\\Source\\Eval_CppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
